@@ -11,7 +11,7 @@ string n2 = " ";
 void functionone()
 {
     cout << endl << endl;
-	cout << "    |     |    \n";
+    cout << "    |     |    \n";
     cout << " " << space[0][0] << "  | " << space[0][1] << "   | " << space[0][2] << " \n";
     cout << "____|_____|____\n";
     cout << "    |     |    \n";
